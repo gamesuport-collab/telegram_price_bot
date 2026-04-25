@@ -4,7 +4,7 @@ import requests
 from telegram import Update
 from telegram.ext import Application, CommandHandler, MessageHandler, filters
 
-TOKEN = "8666812731:AAE5p-avCvw_ptdUWHK7bXc6og-ycv-A4s"
+TOKEN = "8349267464:AAF5WoeM5nFDtTMtJa1W3oKdFUSDayXWiEY"
 DEEPSEEK_API_KEY = "sk-3188092d3078430c88e51cb53c399c63"
 
 async def start(update: Update, context):
